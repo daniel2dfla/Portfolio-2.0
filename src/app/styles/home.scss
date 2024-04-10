@@ -16,7 +16,7 @@
 
         .buttons {
             display: flex;
-            align-items: flex-start;
+            align-items: center;
             justify-content: center;
             flex-direction: column;
             gap: 24px;
@@ -61,16 +61,14 @@
             "header info"
             "experience buttons";
         }
+       
         .projects {
-            grid-template-columns: repeat(2, 1fr);
+            padding: 40px 32px;
+            gap: 24px;
+            margin: 50px;
+    
+            
         }
-    }
-    .projects {
-        padding: 40px 32px;
-        gap: 24px;
-        margin: 50px;
-
-        
     }
 
 }
