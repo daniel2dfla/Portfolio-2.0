@@ -15,6 +15,7 @@ export default function Home() {
         <div className="buttons">
           <SocialBtns/>
           <a className="primary-btn" href="mailto:daniel_2dfla@hotmail.com">Contact me ✉️</a>
+          <a className="primary-btn" href="https://my-curriculo-daniel-backend.s3.amazonaws.com/Curriculo_Backend.pdf" target="_blank">curriculum vitae 🗒️</a>
         </div>
       </main>
       <Projects/>
