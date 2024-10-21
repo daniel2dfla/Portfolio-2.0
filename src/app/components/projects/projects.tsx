@@ -51,15 +51,15 @@ export function Projects() {
       </div>
       <h2>Back end: </h2>
       <div className="section">
-          <a href='https://github.com/daniel2dfla/Restaurant-API' target="_blank" rel="noopener noreferrer">
+          <a href='https://github.com/daniel2dfla/Microservices-with-SpringBoot' target="_blank" rel="noopener noreferrer">
             <Image
-                    src="/restaurant.jpg"
-                    alt="Restaurant-API"
+                    src="/SolicitacaoProposta.png"
+                    alt="Microservices-with-SpringBoot"
                     width={325}
                     height={370}
                     priority
             />
-            <p>Restaurant-API</p>
+            <p>Microservices-with-SpringBoot</p>
           </a>
           <a href='https://github.com/daniel2dfla/desafio-backend' target="_blank" rel="noopener noreferrer">
             <Image
